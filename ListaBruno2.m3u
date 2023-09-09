@@ -1,0 +1,465 @@
+#EXTM3U
+
+#PLAYLISTV: pltv-logo="http://s28.postimg.org/66yw0liml/21312sasdas.png" pltv-name="Pedro Junior Tutoriais" pltv-description=TV ONLINE para PlaylisTV/IPTV" pltv-cover="http://s30.postimg.org/4w34lok2p/canal_pedro_junior_tutoriais.jpg" pltv-author="Pedro Júnior Tutoriais" pltv-site="https://www.youtube.com/user/matamataxiterbr?sub_confirmation=1" pltv-email="" pltv-phone="(51) 98435-1782"
+
+
+################################################################################# Canais Temporários
+
+#EXTINF:-1 group-title="Temporários",ABC NEWS HD
+http://painel.iptvmove.com:25461/live/0167/0167/1126.m3u8
+#EXTINF:-1,A FAZENDA
+http://painel.iptvmove.com:25461/live/0167/0167/1116.m3u8
+#EXTINF:-1,ALL Sports HD
+http://painel.iptvmove.com:25461/live/0167/0167/1215.m3u8
+#EXTINF:-1,A&E
+http://painel.iptvmove.com:25461/live/0167/0167/1354.m3u8
+#EXTINF:-1,Arte 1
+http://painel.iptvmove.com:25461/live/0167/0167/1351.m3u8
+#EXTINF:-1,Animal Planet
+http://painel.iptvmove.com:25461/live/0167/0167/1353.m3u8
+#EXTINF:-1,Animal Planet HD
+http://painel.iptvmove.com:25461/live/0167/0167/1419.m3u8
+#EXTINF:-1,Anime TV
+http://painel.iptvmove.com:25461/live/0167/0167/1124.m3u8
+#EXTINF:-1,Aparecida
+http://painel.iptvmove.com:25461/live/0167/0167/1352.m3u8
+#EXTINF:-1,Aparecida [2]
+http://painel.iptvmove.com:25461/live/0167/0167/1854.m3u8
+#EXTINF:-1,AXN
+http://painel.iptvmove.com:25461/live/0167/0167/1350.m3u8
+#EXTINF:-1,AXN HD
+http://painel.iptvmove.com:25461/live/0167/0167/1418.m3u8
+#EXTINF:-1,Band
+http://painel.iptvmove.com:25461/live/0167/0167/1347.m3u8
+#EXTINF:-1,Band HD
+http://painel.iptvmove.com:25461/live/0167/0167/1417.m3u8
+#EXTINF:-1,Band Sports
+http://painel.iptvmove.com:25461/live/0167/0167/1348.m3u8
+#EXTINF:-1,Band Sports HD
+http://painel.iptvmove.com:25461/live/0167/0167/1416.m3u8
+#EXTINF:-1,Baby TV
+http://painel.iptvmove.com:25461/live/0167/0167/1333.m3u8
+#EXTINF:-1,Boas Novas
+http://painel.iptvmove.com:25461/live/0167/0167/1935.m3u8
+#EXTINF:-1,Boomerang
+http://painel.iptvmove.com:25461/live/0167/0167/1344.m3u8
+#EXTINF:-1,Band News
+http://painel.iptvmove.com:25461/live/0167/0167/1349.m3u8
+#EXTINF:-1,BIS
+http://painel.iptvmove.com:25461/live/0167/0167/1345.m3u8
+#EXTINF:-1,BIS HD
+http://painel.iptvmove.com:25461/live/0167/0167/1415.m3u8
+#EXTINF:-1,BLOOMBERG HD
+http://painel.iptvmove.com:25461/live/0167/0167/1211.m3u8
+#EXTINF:-1,Canal Rural
+http://painel.iptvmove.com:25461/live/0167/0167/1342.m3u8
+#EXTINF:-1,Canal Brasil
+http://painel.iptvmove.com:25461/live/0167/0167/1343.m3u8
+#EXTINF:-1,Canal Show da Fé
+http://painel.iptvmove.com:25461/live/0167/0167/1421.m3u8
+#EXTINF:-1,Canal Sony
+http://painel.iptvmove.com:25461/live/0167/0167/1341.m3u8
+#EXTINF:-1,Canal Sony HD
+http://painel.iptvmove.com:25461/live/0167/0167/1414.m3u8
+#EXTINF:-1,CATVE HD
+http://painel.iptvmove.com:25461/live/0167/0167/1117.m3u8
+#EXTINF:-1,Cancao Nova
+http://painel.iptvmove.com:25461/live/0167/0167/1812.m3u8
+#EXTINF:-1,Cancao Nova HD
+http://painel.iptvmove.com:25461/live/0167/0167/1340.m3u8
+#EXTINF:-1,Cartoon Network
+http://painel.iptvmove.com:25461/live/0167/0167/1339.m3u8
+#EXTINF:-1,CNN
+http://painel.iptvmove.com:25461/live/0167/0167/1834.m3u8
+#EXTINF:-1,Retrô Cartoon
+http://painel.iptvmove.com:25461/live/0167/0167/1125.m3u8
+#EXTINF:-1,Cinemax
+http://painel.iptvmove.com:25461/live/0167/0167/1338.m3u8
+#EXTINF:-1,CBS NEWS HD
+http://painel.iptvmove.com:25461/live/0167/0167/1212.m3u8
+#EXTINF:-1,Combate
+http://painel.iptvmove.com:25461/live/0167/0167/1337.m3u8
+#EXTINF:-1,Combate HD
+http://painel.iptvmove.com:25461/live/0167/0167/1413.m3u8
+#EXTINF:-1,Comedy Central
+http://painel.iptvmove.com:25461/live/0167/0167/1336.m3u8
+#EXTINF:-1,Discovery Channel
+http://painel.iptvmove.com:25461/live/0167/0167/1334.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://painel.iptvmove.com:25461/live/0167/0167/1412.m3u8
+#EXTINF:-1,Discovery H&H
+http://painel.iptvmove.com:25461/live/0167/0167/1332.m3u8
+#EXTINF:-1,Discovery Home & Health HD
+http://painel.iptvmove.com:25461/live/0167/0167/1411.m3u8
+#EXTINF:-1,Discovery Kids
+http://painel.iptvmove.com:25461/live/0167/0167/1331.m3u8
+#EXTINF:-1,Discovery Science
+http://painel.iptvmove.com:25461/live/0167/0167/1330.m3u8
+#EXTINF:-1,Discovery Theater HD
+http://painel.iptvmove.com:25461/live/0167/0167/1410.m3u8
+#EXTINF:-1,Discovery Turbo
+http://painel.iptvmove.com:25461/live/0167/0167/1329.m3u8
+#EXTINF:-1,Discovery Turbo HD
+http://painel.iptvmove.com:25461/live/0167/0167/1409.m3u8
+#EXTINF:-1,Discovery World HD
+http://painel.iptvmove.com:25461/live/0167/0167/1408.m3u8
+#EXTINF:-1,Disney Channel
+http://painel.iptvmove.com:25461/live/0167/0167/1328.m3u8
+#EXTINF:-1,Disney Junior
+http://painel.iptvmove.com:25461/live/0167/0167/1327.m3u8
+#EXTINF:-1,Disney XD
+http://painel.iptvmove.com:25461/live/0167/0167/1326.m3u8
+#EXTINF:-1,Esporte Interativo
+http://painel.iptvmove.com:25461/live/0167/0167/1324.m3u8
+#EXTINF:-1,Esporte Interativo HD
+http://painel.iptvmove.com:25461/live/0167/0167/1402.m3u8
+#EXTINF:-1,Esporte Interativo 2
+http://painel.iptvmove.com:25461/live/0167/0167/1323.m3u8
+#EXTINF:-1,Esporte Interativo 2 HD
+http://painel.iptvmove.com:25461/live/0167/0167/1406.m3u8
+#EXTINF:-1,Esporte Interativo BR HD
+http://painel.iptvmove.com:25461/live/0167/0167/1407.m3u8
+#EXTINF:-1,E! Entertainment Television
+http://painel.iptvmove.com:25461/live/0167/0167/1325.m3u8
+#EXTINF:-1,ESPN
+http://painel.iptvmove.com:25461/live/0167/0167/1322.m3u8
+#EXTINF:-1,ESPN  HD
+http://painel.iptvmove.com:25461/live/0167/0167/1405.m3u8
+#EXTINF:-1,ESPN +
+http://painel.iptvmove.com:25461/live/0167/0167/1225.m3u8
+#EXTINF:-1,ESPN+ HD
+http://painel.iptvmove.com:25461/live/0167/0167/1403.m3u8
+#EXTINF:-1,ESPN Brasil
+http://painel.iptvmove.com:25461/live/0167/0167/1321.m3u8
+#EXTINF:-1,ESPN Brasil HD
+http://painel.iptvmove.com:25461/live/0167/0167/1404.m3u8
+#EXTINF:-1,FOX
+http://painel.iptvmove.com:25461/live/0167/0167/1318.m3u8
+#EXTINF:-1,FOX HD
+http://painel.iptvmove.com:25461/live/0167/0167/1399.m3u8
+#EXTINF:-1,Fish TV
+http://painel.iptvmove.com:25461/live/0167/0167/1320.m3u8
+#EXTINF:-1,Food Network
+http://painel.iptvmove.com:25461/live/0167/0167/1319.m3u8
+#EXTINF:-1,Fox Life
+http://painel.iptvmove.com:25461/live/0167/0167/1317.m3u8
+#EXTINF:-1,FOX Life HD
+http://painel.iptvmove.com:25461/live/0167/0167/1398.m3u8
+#EXTINF:-1,Fox Sports
+http://painel.iptvmove.com:25461/live/0167/0167/1316.m3u8
+#EXTINF:-1,Fox Sport HD
+http://painel.iptvmove.com:25461/live/0167/0167/1397.m3u8
+#EXTINF:-1,Fox Sports 2
+http://painel.iptvmove.com:25461/live/0167/0167/1315.m3u8
+#EXTINF:-1,FOX Sports 2 HD
+http://painel.iptvmove.com:25461/live/0167/0167/1396.m3u8
+#EXTINF:-1,Futura
+http://painel.iptvmove.com:25461/live/0167/0167/1314.m3u8
+#EXTINF:-1,FOX Premium 1 HD
+http://painel.iptvmove.com:25461/live/0167/0167/1401.m3u8
+#EXTINF:-1,FOX Premium 2 HD
+http://painel.iptvmove.com:25461/live/0167/0167/1400.m3u8
+#EXTINF:-1,FX
+http://painel.iptvmove.com:25461/live/0167/0167/1313.m3u8
+#EXTINF:-1,FX HD
+http://painel.iptvmove.com:25461/live/0167/0167/1395.m3u8
+#EXTINF:-1,Gospel Movies Television
+http://painel.iptvmove.com:25461/live/0167/0167/1422.m3u8
+#EXTINF:-1,Gospel Music Television
+http://painel.iptvmove.com:25461/live/0167/0167/1423.m3u8
+#EXTINF:-1,Globo Brasilia HD
+http://painel.iptvmove.com:25461/live/0167/0167/1128.m3u8
+#EXTINF:-1,Globo RJ HD
+http://painel.iptvmove.com:25461/live/0167/0167/1394.m3u8
+#EXTINF:-1,Globo RJ
+http://painel.iptvmove.com:25461/live/0167/0167/1811.m3u8
+#EXTINF:-1,Globo SP
+http://painel.iptvmove.com:25461/live/0167/0167/1312.m3u8
+#EXTINF:-1,Globo News
+http://painel.iptvmove.com:25461/live/0167/0167/1311.m3u8
+#EXTINF:-1,Globo News HD
+http://painel.iptvmove.com:25461/live/0167/0167/1838.m3u8
+#EXTINF:-1,Globo Minas
+http://painel.iptvmove.com:25461/live/0167/0167/1220.m3u8
+#EXTINF:-1,Gloob
+http://painel.iptvmove.com:25461/live/0167/0167/1310.m3u8
+#EXTINF:-1,GNT
+http://painel.iptvmove.com:25461/live/0167/0167/1309.m3u8
+#EXTINF:-1,GNT HD
+http://painel.iptvmove.com:25461/live/0167/0167/1393.m3u8
+#EXTINF:-1,H2 HD
+http://painel.iptvmove.com:25461/live/0167/0167/1392.m3u8
+#EXTINF:-1,H2
+http://painel.iptvmove.com:25461/live/0167/0167/1308.m3u8
+#EXTINF:-1,HBO
+http://painel.iptvmove.com:25461/live/0167/0167/1307.m3u8
+#EXTINF:-1,HBO HD
+http://painel.iptvmove.com:25461/live/0167/0167/1389.m3u8
+#EXTINF:-1,HBO 2
+http://painel.iptvmove.com:25461/live/0167/0167/1302.m3u8
+#EXTINF:-1,HBO 2 HD
+http://painel.iptvmove.com:25461/live/0167/0167/1391.m3u8
+#EXTINF:-1,HBO Family
+http://painel.iptvmove.com:25461/live/0167/0167/1306.m3u8
+#EXTINF:-1,HBO Family HD
+http://painel.iptvmove.com:25461/live/0167/0167/1390.m3u8
+#EXTINF:-1,HBO Plus
+http://painel.iptvmove.com:25461/live/0167/0167/1305.m3u8
+#EXTINF:-1,HBO Plus e
+http://painel.iptvmove.com:25461/live/0167/0167/1304.m3u8
+#EXTINF:-1,HBO Plus HD
+http://painel.iptvmove.com:25461/live/0167/0167/1388.m3u8
+#EXTINF:-1,HBO Signature
+http://painel.iptvmove.com:25461/live/0167/0167/1303.m3u8
+#EXTINF:-1,HBO Signature HD
+http://painel.iptvmove.com:25461/live/0167/0167/1387.m3u8
+#EXTINF:-1,History Channel HD
+http://painel.iptvmove.com:25461/live/0167/0167/1386.m3u8
+#EXTINF:-1,HIT TV HD
+http://painel.iptvmove.com:25461/live/0167/0167/1809.m3u8
+#EXTINF:-1,I-SAT
+http://painel.iptvmove.com:25461/live/0167/0167/1301.m3u8
+#EXTINF:-1,ID - Investigacao Discovery
+http://painel.iptvmove.com:25461/live/0167/0167/1300.m3u8
+#EXTINF:-1,ID - Investigação Discovery HD
+http://painel.iptvmove.com:25461/live/0167/0167/1385.m3u8
+#EXTINF:-1,Lifetime
+http://painel.iptvmove.com:25461/live/0167/0167/1298.m3u8
+#EXTINF:-1,Mais Globosat
+http://painel.iptvmove.com:25461/live/0167/0167/1297.m3u8
+#EXTINF:-1,MAX Prime e
+http://painel.iptvmove.com:25461/live/0167/0167/1294.m3u8
+#EXTINF:-1,MAX Prime
+http://painel.iptvmove.com:25461/live/0167/0167/1295.m3u8
+#EXTINF:-1,MAX UP
+http://painel.iptvmove.com:25461/live/0167/0167/1293.m3u8
+#EXTINF:-1,MAX
+http://painel.iptvmove.com:25461/live/0167/0167/1296.m3u8
+#EXTINF:-1,MegaPix
+http://painel.iptvmove.com:25461/live/0167/0167/1292.m3u8
+#EXTINF:-1,Megapix HD
+http://painel.iptvmove.com:25461/live/0167/0167/1384.m3u8
+#EXTINF:-1,MTV
+http://painel.iptvmove.com:25461/live/0167/0167/1291.m3u8
+#EXTINF:-1,Music Box Brazil
+http://painel.iptvmove.com:25461/live/0167/0167/1289.m3u8
+#EXTINF:-1,MEGATV
+http://painel.iptvmove.com:25461/live/0167/0167/1213.m3u8
+#EXTINF:-1,Mix TV
+http://painel.iptvmove.com:25461/live/0167/0167/1118.m3u8
+#EXTINF:-1,Multishow
+http://painel.iptvmove.com:25461/live/0167/0167/1290.m3u8
+#EXTINF:-1,Multishow HD
+http://painel.iptvmove.com:25461/live/0167/0167/1383.m3u8
+#EXTINF:-1,National Geographic
+http://painel.iptvmove.com:25461/live/0167/0167/1287.m3u8
+#EXTINF:-1,National Geography HD
+http://painel.iptvmove.com:25461/live/0167/0167/1381.m3u8
+#EXTINF:-1,NBR
+http://painel.iptvmove.com:25461/live/0167/0167/1286.m3u8
+#EXTINF:-1,NHK
+http://painel.iptvmove.com:25461/live/0167/0167/1285.m3u8
+#EXTINF:-1,NovoTempo
+http://painel.iptvmove.com:25461/live/0167/0167/1282.m3u8
+#EXTINF:-1,NatGeo Wild
+http://painel.iptvmove.com:25461/live/0167/0167/1288.m3u8
+#EXTINF:-1,NatGeoWild HD
+http://painel.iptvmove.com:25461/live/0167/0167/1382.m3u8
+#EXTINF:-1,NatGeo Kids
+http://painel.iptvmove.com:25461/live/0167/0167/1810.m3u8
+#EXTINF:-1,Nick Jr
+http://painel.iptvmove.com:25461/live/0167/0167/1284.m3u8
+#EXTINF:-1,Nickelodeon
+http://painel.iptvmove.com:25461/live/0167/0167/1283.m3u8
+#EXTINF:-1,NOVO TEMPO
+http://painel.iptvmove.com:25461/live/0167/0167/1121.m3u8
+#EXTINF:-1,Play TV
+http://painel.iptvmove.com:25461/live/0167/0167/1279.m3u8
+#EXTINF:-1,Playboy TV
+http://painel.iptvmove.com:25461/live/0167/0167/1278.m3u8
+#EXTINF:-1,OFF HD
+http://painel.iptvmove.com:25461/live/0167/0167/1380.m3u8
+#EXTINF:-1,OFF
+http://painel.iptvmove.com:25461/live/0167/0167/1281.m3u8
+#EXTINF:-1,Paramount HD
+http://painel.iptvmove.com:25461/live/0167/0167/1379.m3u8
+#EXTINF:-1,Paramount
+http://painel.iptvmove.com:25461/live/0167/0167/1280.m3u8
+#EXTINF:-1,Portal Gospel HD
+http://painel.iptvmove.com:25461/live/0167/0167/1425.m3u8
+#EXTINF:-1,Premiere Clubes
+http://painel.iptvmove.com:25461/live/0167/0167/1269.m3u8
+#EXTINF:-1,Premiere Clubes HD
+http://painel.iptvmove.com:25461/live/0167/0167/1378.m3u8
+#EXTINF:-1,Premiere 2
+http://painel.iptvmove.com:25461/live/0167/0167/1277.m3u8
+#EXTINF:-1,Premiere 2 HD
+http://painel.iptvmove.com:25461/live/0167/0167/1377.m3u8
+#EXTINF:-1,Premiere 3
+http://painel.iptvmove.com:25461/live/0167/0167/1276.m3u8
+#EXTINF:-1,Premiere 3 HD
+http://painel.iptvmove.com:25461/live/0167/0167/1376.m3u8
+#EXTINF:-1,Premiere 4 HD
+http://painel.iptvmove.com:25461/live/0167/0167/1375.m3u8
+#EXTINF:-1,Premiere 4
+http://painel.iptvmove.com:25461/live/0167/0167/1275.m3u8
+#EXTINF:-1,Premiere 5 HD
+http://painel.iptvmove.com:25461/live/0167/0167/1374.m3u8
+#EXTINF:-1,Premiere 5
+http://painel.iptvmove.com:25461/live/0167/0167/1274.m3u8
+#EXTINF:-1,Premiere 6
+http://painel.iptvmove.com:25461/live/0167/0167/1273.m3u8
+#EXTINF:-1,Premiere 7
+http://painel.iptvmove.com:25461/live/0167/0167/1272.m3u8
+#EXTINF:-1,Premiere 8
+http://painel.iptvmove.com:25461/live/0167/0167/1271.m3u8
+#EXTINF:-1,Premiere 9
+http://painel.iptvmove.com:25461/live/0167/0167/1270.m3u8
+#EXTINF:-1,Prime Box Brazil
+http://painel.iptvmove.com:25461/live/0167/0167/1268.m3u8
+#EXTINF:-1,RBI
+http://painel.iptvmove.com:25461/live/0167/0167/1267.m3u8
+#EXTINF:-1,RBS TV Porto Alegre
+http://painel.iptvmove.com:25461/live/0167/0167/1266.m3u8
+#EXTINF:-1,Rede Brasil
+http://painel.iptvmove.com:25461/live/0167/0167/1263.m3u8
+#EXTINF:-1,Rede Vida
+http://painel.iptvmove.com:25461/live/0167/0167/1261.m3u8
+#EXTINF:-1,Rede Gospel
+http://painel.iptvmove.com:25461/live/0167/0167/1424.m3u8
+#EXTINF:-1,RIT
+http://painel.iptvmove.com:25461/live/0167/0167/1260.m3u8
+#EXTINF:-1,Record
+http://painel.iptvmove.com:25461/live/0167/0167/1264.m3u8
+#EXTINF:-1,Record HD
+http://painel.iptvmove.com:25461/live/0167/0167/1373.m3u8
+#EXTINF:-1,Record News
+http://painel.iptvmove.com:25461/live/0167/0167/1265.m3u8
+#EXTINF:-1,REDE SUPER
+http://painel.iptvmove.com:25461/live/0167/0167/1120.m3u8
+#EXTINF:-1,Rede TV
+http://painel.iptvmove.com:25461/live/0167/0167/1262.m3u8
+#EXTINF:-1,Rede TV HD
+http://painel.iptvmove.com:25461/live/0167/0167/1372.m3u8
+#EXTINF:-1,SIC Internacional
+http://painel.iptvmove.com:25461/live/0167/0167/1256.m3u8
+#EXTINF:-1,Space
+http://painel.iptvmove.com:25461/live/0167/0167/1255.m3u8
+#EXTINF:-1,Space HD
+http://painel.iptvmove.com:25461/live/0167/0167/1370.m3u8
+#EXTINF:-1,SporTV
+http://painel.iptvmove.com:25461/live/0167/0167/1254.m3u8
+#EXTINF:-1,Sport TV HD
+http://painel.iptvmove.com:25461/live/0167/0167/1367.m3u8
+#EXTINF:-1,SporTV 2
+http://painel.iptvmove.com:25461/live/0167/0167/1253.m3u8
+#EXTINF:-1,Sport TV 2 HD
+http://painel.iptvmove.com:25461/live/0167/0167/1369.m3u8
+#EXTINF:-1,SporTV 3
+http://painel.iptvmove.com:25461/live/0167/0167/1252.m3u8
+#EXTINF:-1,Sport TV 3 HD
+http://painel.iptvmove.com:25461/live/0167/0167/1368.m3u8
+#EXTINF:-1,Studio Universal
+http://painel.iptvmove.com:25461/live/0167/0167/1251.m3u8
+#EXTINF:-1,Syfy
+http://painel.iptvmove.com:25461/live/0167/0167/1250.m3u8
+#EXTINF:-1,SBT
+http://painel.iptvmove.com:25461/live/0167/0167/1259.m3u8
+#EXTINF:-1,SBT HD
+http://painel.iptvmove.com:25461/live/0167/0167/1371.m3u8
+#EXTINF:-1,SBT HD (alternativo)
+http://painel.iptvmove.com:25461/live/0167/0167/1129.m3u8
+#EXTINF:-1,Sextreme
+http://painel.iptvmove.com:25461/live/0167/0167/1258.m3u8
+#EXTINF:-1,Sexy Hot
+http://painel.iptvmove.com:25461/live/0167/0167/1257.m3u8
+#EXTINF:-1,TBS
+http://painel.iptvmove.com:25461/live/0167/0167/1249.m3u8
+#EXTINF:-1,TBS HD
+http://painel.iptvmove.com:25461/live/0167/0167/1366.m3u8
+#EXTINF:-1,Telecine Action
+http://painel.iptvmove.com:25461/live/0167/0167/1247.m3u8
+#EXTINF:-1,Telecine Action HD
+http://painel.iptvmove.com:25461/live/0167/0167/1365.m3u8
+#EXTINF:-1,Telecine Pipoca
+http://painel.iptvmove.com:25461/live/0167/0167/1244.m3u8
+#EXTINF:-1,Telecine Pipoca HD
+http://painel.iptvmove.com:25461/live/0167/0167/1363.m3u8
+#EXTINF:-1,Telecine Fun
+http://painel.iptvmove.com:25461/live/0167/0167/1245.m3u8
+#EXTINF:-1,Telecine Fun HD
+http://painel.iptvmove.com:25461/live/0167/0167/1364.m3u8
+#EXTINF:-1,Telecine Premium
+http://painel.iptvmove.com:25461/live/0167/0167/1243.m3u8
+#EXTINF:-1,Telecine Premium HD
+http://painel.iptvmove.com:25461/live/0167/0167/1362.m3u8
+#EXTINF:-1,Telecine Touch
+http://painel.iptvmove.com:25461/live/0167/0167/1242.m3u8
+#EXTINF:-1,Telecine Touch HD
+http://painel.iptvmove.com:25461/live/0167/0167/1361.m3u8
+#EXTINF:-1,Telecine Cult
+http://painel.iptvmove.com:25461/live/0167/0167/1246.m3u8
+#EXTINF:-1,TCM
+http://painel.iptvmove.com:25461/live/0167/0167/1248.m3u8
+#EXTINF:-1,Terra Viva
+http://painel.iptvmove.com:25461/live/0167/0167/1241.m3u8
+#EXTINF:-1,The History Channel
+http://painel.iptvmove.com:25461/live/0167/0167/1240.m3u8
+#EXTINF:-1,TLC
+http://painel.iptvmove.com:25461/live/0167/0167/1239.m3u8
+#EXTINF:-1,TNT
+http://painel.iptvmove.com:25461/live/0167/0167/1238.m3u8
+#EXTINF:-1,TNT HD
+http://painel.iptvmove.com:25461/live/0167/0167/1360.m3u8
+#EXTINF:-1,TNT Series
+http://painel.iptvmove.com:25461/live/0167/0167/1237.m3u8
+#EXTINF:-1,TNT Séries HD
+http://painel.iptvmove.com:25461/live/0167/0167/1359.m3u8
+#EXTINF:-1,Tooncast
+http://painel.iptvmove.com:25461/live/0167/0167/1236.m3u8
+#EXTINF:-1,TruTV
+http://painel.iptvmove.com:25461/live/0167/0167/1235.m3u8
+#EXTINF:-1,TV Anhanguera Goiânia
+http://painel.iptvmove.com:25461/live/0167/0167/1221.m3u8
+#EXTINF:-1,TV Brasil
+http://painel.iptvmove.com:25461/live/0167/0167/1234.m3u8
+#EXTINF:-1,TV Cultura
+http://painel.iptvmove.com:25461/live/0167/0167/1233.m3u8
+#EXTINF:-1,TV Ra tim bum
+http://painel.iptvmove.com:25461/live/0167/0167/1232.m3u8
+#EXTINF:-1,TV Tem Bauru
+http://painel.iptvmove.com:25461/live/0167/0167/1222.m3u8
+#EXTINF:-1,TV Tem Sorocaba
+http://painel.iptvmove.com:25461/live/0167/0167/1223.m3u8
+#EXTINF:-1,TVE
+http://painel.iptvmove.com:25461/live/0167/0167/1231.m3u8
+#EXTINF:-1,TV BR NEWS
+http://painel.iptvmove.com:25461/live/0167/0167/1216.m3u8
+#EXTINF:-1,TV Cultura PB
+http://painel.iptvmove.com:25461/live/0167/0167/1209.m3u8
+#EXTINF:-1,TV Diário
+http://painel.iptvmove.com:25461/live/0167/0167/1119.m3u8
+#EXTINF:-1,TV GAZETA HD
+http://painel.iptvmove.com:25461/live/0167/0167/1210.m3u8
+#EXTINF:-1,TV Gazeta RN
+http://painel.iptvmove.com:25461/live/0167/0167/1217.m3u8
+#EXTINF:-1,TV Master Joao Pessoa
+http://painel.iptvmove.com:25461/live/0167/0167/1837.m3u8
+#EXTINF:-1,TV Vitoria Record ES
+http://painel.iptvmove.com:25461/live/0167/0167/1133.m3u8
+#EXTINF:-1,Universal Channel
+http://painel.iptvmove.com:25461/live/0167/0167/1230.m3u8
+#EXTINF:-1,Universal Channels HD
+http://painel.iptvmove.com:25461/live/0167/0167/1358.m3u8
+#EXTINF:-1,VH1 Megahits
+http://painel.iptvmove.com:25461/live/0167/0167/1229.m3u8
+#EXTINF:-1,VIVA HD
+http://painel.iptvmove.com:25461/live/0167/0167/1357.m3u8
+#EXTINF:-1,Viva
+http://painel.iptvmove.com:25461/live/0167/0167/1228.m3u8
+#EXTINF:-1,Warner Channel HD
+http://painel.iptvmove.com:25461/live/0167/0167/1355.m3u8
+#EXTINF:-1,Warner Channel
+http://painel.iptvmove.com:25461/live/0167/0167/1227.m3u8
+#EXTINF:-1,Woohoo
+http://painel.iptvmove.com:25461/live/0167/0167/1226.m3u8
